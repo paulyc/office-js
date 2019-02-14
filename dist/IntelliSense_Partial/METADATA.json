@@ -1,0 +1,10 @@
+{
+	"apiSetSubstitutions": {
+		"ExcelApi 1.9": "ExcelApi BETA (PREVIEW ONLY)",
+		"ExcelApi 2.0": "ExcelApi BETA (PREVIEW ONLY)",
+		"ExcelApi 2": "ExcelApi BETA (PREVIEW ONLY)",
+		"WordApi 1.4": "WordApi BETA (PREVIEW ONLY)",
+		"WordApi 1.5": "WordApi BETA (PREVIEW ONLY)",
+		"Experiment 1.1": "Experimentation 1.1 (PREVIEW)"
+	}
+}
